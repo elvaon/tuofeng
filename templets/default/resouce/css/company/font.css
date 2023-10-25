@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto-Bold.woff") format("woff"),
+       url("../fonts/Roboto-Bold.ttf") format("truetype"),
+       url("../fonts/Roboto-Bold.eot") format("embedded-opentype"),
+       url("../fonts/Roboto-Bold.svg") format("svg");
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.woff") format("woff"),
+       url("../fonts/Roboto-Regular.ttf") format("truetype"),
+       url("../fonts/Roboto-Regular.eot") format("embedded-opentype"),
+       url("../fonts/Roboto-Regular.svg") format("svg");
+}
+@font-face {
+  font-family: "OPEN SANS";
+  src: url("../fonts/OPEN SANS.woff") format("woff"),
+       url("../fonts/OPEN SANS.ttf") format("truetype"),
+       url("../fonts/OPEN SANS.eot") format("embedded-opentype"),
+       url("../fonts/OPEN SANS.svg") format("svg");
+}
+@font-face {
+  font-family: "OPEN SANS BOLD";
+  src: url("../fonts/OPEN SANS BOLD.woff") format("woff"),
+       url("../fonts/OPEN SANS BOLD.ttf") format("truetype"),
+       url("../fonts/OPEN SANS BOLD.eot") format("embedded-opentype"),
+       url("../fonts/OPEN SANS BOLD.svg") format("svg");
+}
